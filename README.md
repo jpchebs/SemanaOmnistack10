@@ -1,0 +1,3 @@
+# SemanaOmnistack10
+
+*pessoal
